@@ -5,7 +5,7 @@
 
 ### Hi  this is kongling , u can also call me kodosan👋
 * :earth_asia: Like all interesting things 
-* :yum: A cyber security rookie from China 
+* :yum: A cyber security newbie from China 
 * :house_with_garden: My blog:[空灵'blog](https://kodosan.com)
 <!--
 **kodosan/kodosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
